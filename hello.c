@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  puts("Pretty bird says: 'Hello World! I is very cute, fluffy, sassy, pretty, green, and brave.'");
+  puts("Hello World");
   getchar();
   return EXIT_SUCCESS;
 }
